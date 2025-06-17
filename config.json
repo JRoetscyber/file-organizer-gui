@@ -1,0 +1,5 @@
+{
+  "Documents": [".pdf", ".docx", ".txt"],
+  "Images": [".jpg", ".png"],
+  "Audio": [".mp3", ".wav"]
+}
