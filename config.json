@@ -1,5 +1,11 @@
 {
   "Documents": [".pdf", ".docx", ".txt"],
   "Images": [".jpg", ".png"],
-  "Audio": [".mp3", ".wav"]
+  "Audio": [".mp3", ".wav"],
+  "Video": [".mp4", ".avi"],
+  "Archives": [".zip", ".rar"],
+  "Executable": [".exe", ".bat"],
+  "Scripts": [".js", ".py", ".sh"],
+  "Fonts": [".ttf", ".otf"],
+  "Data": [".csv", ".json", ".xml"]
 }

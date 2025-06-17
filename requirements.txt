@@ -1,0 +1,4 @@
+# No external packages required.
+# Tkinter is included with standard Python installations.
+# If you are on Linux and get errors, install Tkinter with:
+# sudo apt-get install python3-tk
