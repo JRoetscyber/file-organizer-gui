@@ -49,10 +49,6 @@ Example:
 ```
 Unmatched files go to the `Others` folder.
 
-## Screenshots
-
-*(Add screenshots here)*
-
 ## License
 
 MIT License
